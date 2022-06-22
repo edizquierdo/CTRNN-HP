@@ -1,6 +1,6 @@
 # Dynamic Recurrent Neural Network with Homeostatic Plasticity
 
-This is an implementation of homeostatic plasticity in continuous-time recurrent neural networks, following previous work by Williams and Noble <a href="https://www.sciencedirect.com/science/article/abs/pii/S0303264706001729?via%3Dihub">Homeostatic plasticity improves signal propagation in continuous-time recurrent neural networks</a> (2007). 
+This is an implementation of homeostatic plasticity in continuous-time recurrent neural networks, following previous work by Williams and Noble "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0303264706001729?via%3Dihub">Homeostatic plasticity improves signal propagation in continuous-time recurrent neural networks</a>" (2007). 
 
 The main part of the code is contained within the CTRNN class. The rest of the classes are use to evolve the neural network to produce oscillations. 
 
