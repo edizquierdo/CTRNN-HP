@@ -8,9 +8,12 @@ We are using this to better understand the role that homeostatic plasticity play
 
 ## Instructions for use
 
-1. Compile using the Makefile: make.
-2. Perform an evolutionary run (takes 2 seconds): ./main
-3. Visualize the evolutionary progress and the resulting dynamics of the best evolved homeostatic neural circuit: python viz.py
+1. Compile using the Makefile: 
+'''
+$make
+'''
+5. Perform an evolutionary run (takes 2 seconds): ./main
+6. Visualize the evolutionary progress and the resulting dynamics of the best evolved homeostatic neural circuit: python viz.py
 
 
 
